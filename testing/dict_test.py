@@ -1,0 +1,32 @@
+"""
+測試dict包多層的提取用法
+"""
+
+data2=[
+    {
+        "bang0":[
+            {
+                "number":666,
+                "sex":"boy",
+                "short":50
+            },
+            {
+                "number":666,
+                "sex":"boy",
+                "short":20
+            },
+            {
+                "number":666,
+                "sex":"boy",
+                "short":10
+            },
+            {
+                "number":666,
+                "sex":"boy",
+                "short":505
+            },
+        ]
+    }
+]
+
+#print(len(data2[0]['bang0']))

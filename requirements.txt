@@ -1,3 +1,10 @@
-discord.py
-facebook-scraper
-requests
+discord.py == 1.7.3
+requests == 2.27.1
+#Flask
+imgurpython == 1.1.7
+discord-py-slash-command == 3.0.3
+#facebook-scraper == 0.2.50
+#demjson3 == 3.0.5
+#requests-html == 0.10.0
+#dateparser == 1.1.1
+git+https://github.com/kevinzg/facebook-scraper.git
